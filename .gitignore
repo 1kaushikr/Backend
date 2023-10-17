@@ -1,0 +1,56 @@
+# Ignore Visual Studio files
+.vscode/
+.vs/
+*_i.c
+*_p.c
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.suo
+*.user
+*.suo
+*.user
+*.suo
+*.user
+*.suo
+*.user
+
+# Ignore Rider files
+.idea/
+
+# Ignore NuGet packages folder
+packages/
+
+# Ignore build output
+bin/
+obj/
+
+# Ignore user-specific files and settings
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignore log files and exceptions
+*.log
+*.log.xml
+*.log.txt
+*.log.html
+*.htm
+*.html
+*.json
+
+# Ignore Visual Studio backup & upgrade files
+UpgradeLog*.XML
+_UpgradeReport_Files/
+Backup*/
+UpgradeLog*.htm
+
+# Ignore .NET Core and Visual Studio temp files
+project.lock.json
+project.fragment.lock.json
+artifacts/
+**/Properties/launchSettings.json
+**/*.nuget.props
+**/*.nuget.targets
